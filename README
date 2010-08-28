@@ -1,0 +1,12 @@
+Welcome to geo.js!
+
+This project will host a series simple geo-helpers for working with GeoJSON data within Javascript. 
+
+Example: 
+
+1. Include geo.js in your html
+2. Load up some geojson
+3. Use geo.js to:
+    a. Retrieve to BBOX of all (or just some) features
+    b. Calculate the center point of all polygon feature
+    c. Simplify data
